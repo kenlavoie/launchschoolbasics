@@ -1,0 +1,12 @@
+Ruby Frameworks 
+
+Rails would be my #1 choice. A couple of main reasons - one being the adoption of rails seems to be much higher than Sinatra or Padrino. 
+
+(after reading more, Sinatra seems to be hugely popular with larger companies. Airbnb, heroku, and github to name a few)
+
+From my limited understanding of rails, it's also one of the Frameworks that doesn't use a ruby DSL. I like the idea of learning core Ruby vs 
+being knowledge bound to a particular framework. 
+
+The dsl is super powerful, and from what it seems, ruby can excel at creating dsl due to not being as complex. 
+
+But if I think of Vagrant or Puppet as examples, while they're great tools, you typically do not interact with them as you would a normal .rb file

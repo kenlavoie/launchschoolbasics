@@ -1,0 +1,8 @@
+joe's email 
+
+contacts[0][0] 
+
+sallys email 
+contacts[1][1] 
+
+in exercise 12, i've noted the reason why around indices

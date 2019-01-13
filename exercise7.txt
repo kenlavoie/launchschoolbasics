@@ -1,0 +1,6 @@
+Arrays do not have  key/value mapping. These have indices that can be accessed by using the specific index. E.G - in an array 
+that is [1, 2, 3, 4, 5] you can access the first number, 1, by accessing indice [0] 
+
+Hashes on the other hand have a k/v mapping. The example would be { x: 10, y: 11}. 
+
+Arrays use integers to access (indices, as mentioned above) and hashes use any object type

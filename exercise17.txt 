@@ -1,0 +1,7 @@
+My first glance at the problem was that they would not be true. 
+
+I read a few things online and stack overflow, and tried to understand more on hashing  from a couple 
+developers at work. 
+
+Based on everything replied back on, hashes do not care about order. as an example, if we collect environment variables, 
+and one computer has a var set to be DOG="dog", CAT="cat", and the other is in inverse order, the hash is still the same

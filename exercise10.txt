@@ -1,0 +1,11 @@
+Yes, they both can be hashes. You can create a hash using the other method as noted in exercise 6, which is list/array based  
+
+When performing a hash.sort, the values are return in nested lists. You also can have k/v pairs inside of a list and access them via indices as 
+you would in a normal list query. 
+
+The main difference is how you access the key values. An array has to be accessed via the index #, and the hash can be accessed as an object
+
+
+Example 
+normal hash - {k:"key, v:"value"}
+nested array hash [[k, value], [k, value]]
